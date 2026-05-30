@@ -1,4 +1,4 @@
-# 🧪 C# Unit Testing Tutorial — .NET 9 + xUnit
+# 🧪 C# Unit Testing Tutorial — .NET 10 + xUnit
 ## By Daniel Lim-Apo
 
 > **172 tests · 20 examples · 0 failures**  
